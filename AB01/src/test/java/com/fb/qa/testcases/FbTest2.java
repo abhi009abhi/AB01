@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.MediaEntityBuilder;
 import com.fb.qa.base.TestBase;
-import com.fb.qa.extentrport.FBExtentReport;
+
 import com.fb.qa.fbutilities.TestUtility;
 import com.fb.qa.pages.FbLogin;
 
@@ -16,7 +16,7 @@ public class FbTest2 extends TestBase{
 	FbLogin fb;
 	TestUtility tutil;
 	String path = System.getProperty("user.dir") + "/Photo/FB/";
-	 FBExtentReport FbReprttutil;
+	 
 	 FbTest2() {
 		super();
 	}
@@ -29,7 +29,7 @@ public class FbTest2 extends TestBase{
 		// System.out.println(getDriver());
 		fb = new FbLogin();
 		tutil = new TestUtility();
-		 FbReprttutil = new FBExtentReport();
+		
 	}
 
 	 @Test

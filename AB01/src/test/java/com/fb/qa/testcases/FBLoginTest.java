@@ -8,18 +8,18 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-import com.fb.qa.ExtentReports.TestListner;
+
 import com.fb.qa.base.TestBase;
-import com.fb.qa.extentrport.FBExtentReport;
+
 import com.fb.qa.fbutilities.TestUtility;
 import com.fb.qa.pages.FbLogin;
 
-@Listeners(TestListner.class)
+
 public class FBLoginTest extends TestBase {
 	FbLogin fb;
 	TestUtility tutil;
 	String path = System.getProperty("user.dir") + "/Photo/FB/";
-	 FBExtentReport FbReprttutil;
+	
 	FBLoginTest() {
 		super();
 	}

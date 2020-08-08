@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="com.fb.qa.testcases.FBLoginTest" duration-ms="25389" started-at="2020-08-08T20:37:57Z" finished-at="2020-08-08T20:38:23Z">
+  <suite name="com.fb.qa.testcases.FBLoginTest" duration-ms="20782" started-at="2020-08-08T21:39:19Z" finished-at="2020-08-08T21:39:40Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="25389" started-at="2020-08-08T20:37:57Z" finished-at="2020-08-08T20:38:23Z">
+    <test name="Command line test" duration-ms="20782" started-at="2020-08-08T21:39:19Z" finished-at="2020-08-08T21:39:40Z">
       <class name="com.fb.qa.testcases.FBLoginTest">
-        <test-method status="PASS" signature="precodnition()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@47f6473]" name="precodnition" is-config="true" duration-ms="11163" started-at="2020-08-08T20:37:57Z" finished-at="2020-08-08T20:38:09Z">
+        <test-method status="PASS" signature="precodnition()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@327471b5]" name="precodnition" is-config="true" duration-ms="12142" started-at="2020-08-08T21:39:19Z" finished-at="2020-08-08T21:39:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- precodnition -->
-        <test-method status="PASS" signature="EnterSignUpData()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@47f6473]" name="EnterSignUpData" duration-ms="7714" started-at="2020-08-08T20:38:09Z" finished-at="2020-08-08T20:38:16Z">
+        <test-method status="PASS" signature="EnterSignUpData()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@327471b5]" name="EnterSignUpData" duration-ms="7163" started-at="2020-08-08T21:39:31Z" finished-at="2020-08-08T21:39:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EnterSignUpData -->
-        <test-method status="PASS" signature="checkEnabledElements()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@47f6473]" name="checkEnabledElements" duration-ms="227" started-at="2020-08-08T20:38:17Z" finished-at="2020-08-08T20:38:18Z">
+        <test-method status="PASS" signature="checkEnabledElements()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@327471b5]" name="checkEnabledElements" duration-ms="194" started-at="2020-08-08T21:39:38Z" finished-at="2020-08-08T21:39:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkEnabledElements -->
-        <test-method status="PASS" signature="takePhoto()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@47f6473]" name="takePhoto" duration-ms="838" started-at="2020-08-08T20:38:18Z" finished-at="2020-08-08T20:38:18Z">
+        <test-method status="PASS" signature="takePhoto()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@327471b5]" name="takePhoto" duration-ms="805" started-at="2020-08-08T21:39:38Z" finished-at="2020-08-08T21:39:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takePhoto -->
-        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@47f6473]" name="postCondition" is-config="true" duration-ms="4171" started-at="2020-08-08T20:38:19Z" finished-at="2020-08-08T20:38:23Z">
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@327471b5]" name="postCondition" is-config="true" duration-ms="247" started-at="2020-08-08T21:39:39Z" finished-at="2020-08-08T21:39:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
