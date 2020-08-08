@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23289" started-at="2020-08-09T01:49:47 IST" finished-at="2020-08-09T01:50:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23289" started-at="2020-08-09T01:49:47 IST" finished-at="2020-08-09T01:50:11 IST">
+      <class name="com.fb.qa.testcases.FBLoginTest">
+        <test-method status="PASS" signature="precodnition()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@23faf8f2]" name="precodnition" is-config="true" duration-ms="9944" started-at="2020-08-09T01:49:47 IST" finished-at="2020-08-09T01:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precodnition -->
+        <test-method status="PASS" signature="EnterSignUpData()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@23faf8f2]" name="EnterSignUpData" duration-ms="7487" started-at="2020-08-09T01:49:57 IST" finished-at="2020-08-09T01:50:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterSignUpData -->
+        <test-method status="PASS" signature="checkEnabledElements()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@23faf8f2]" name="checkEnabledElements" duration-ms="191" started-at="2020-08-09T01:50:05 IST" finished-at="2020-08-09T01:50:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkEnabledElements -->
+        <test-method status="PASS" signature="takePhoto()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@23faf8f2]" name="takePhoto" duration-ms="634" started-at="2020-08-09T01:50:05 IST" finished-at="2020-08-09T01:50:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takePhoto -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.fb.qa.testcases.FBLoginTest@23faf8f2]" name="postCondition" is-config="true" duration-ms="4403" started-at="2020-08-09T01:50:06 IST" finished-at="2020-08-09T01:50:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.fb.qa.testcases.FBLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
